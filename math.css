@@ -1,0 +1,27 @@
+<!--#test {
+  background: #fff6be;
+  width:100%;
+  height: 40%;
+  text-align:center;
+}-->
+#empty{
+  background: #eef2f5;
+  height: 25%;
+  position: sticky;
+  top:0;
+  text-align:center;
+  font-size:5%;
+}
+<!--#fdsf{
+  background: #ffe0a3;
+  width:100%;
+  height: 40%;
+  text-align:center;
+}-->
+.button{
+  width:50;
+  height:50;
+}
+#body{
+  margin:0;
+}
